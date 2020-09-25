@@ -1,5 +1,5 @@
 # Mohamed-s-Basic_Onshape_CAD
- this is my finished base. I had lots of trouble on adding the images but everything else was really easy.Now I'm done with it.
+ this is my finished base. I had lots of trouble on adding the images but everything else was really easy. Now I'm done with it.
 for some raseon my image won't load so I only have the link available 
 
 # here's the link to my Onshape
